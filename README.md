@@ -9,3 +9,5 @@ Implementation of the getting started guide published in https://aws.amazon.com/
 - [Lambda](https://us-west-2.console.aws.amazon.com/lambda/home?region=us-west-2#/functions/BasicWebApplication?newFunction=true&tab=code)
 - [IAM role](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/roles/details/BasicWebApplication-role-gml07aot?section=permissions)
 - [DynamoDB](https://us-west-2.console.aws.amazon.com/dynamodbv2/home?region=us-west-2#table?initialTagKey=&name=BasicWebApplication&tab=overview)
+
+Final result published in: https://develop.d2l0ui04mwqtvg.amplifyapp.com/
